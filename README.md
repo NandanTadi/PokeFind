@@ -1,8 +1,8 @@
 # PokeFind
-_ A simple Pokemon Pokedex for IOS built in Swift using PokeApi.co
+A simple Pokemon Pokedex for IOS built in Swift using PokeApi.co
 
 
-_ All data is sourced from pokeapi.co.
+**All data is sourced from pokeapi.co.
 
 continue to browse and search for specific pokemon on this main screen.
 
